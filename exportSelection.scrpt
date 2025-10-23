@@ -1,0 +1,2 @@
+app.activeDocument.exportSelectionAsPNG(File("c:/temp/selection.png"));
+
